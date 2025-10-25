@@ -64,7 +64,7 @@ int main()
 }
 ```
 ## OUTPUT:
-<img width="932" height="411" alt="image" src="https://github.com/user-attachments/assets/a40d0cab-b14b-4ef5-8e4b-df366354251a" />
+<img width="932" height="411" alt="image" src="https://github.com/user-attachments/assets/98474e09-a64a-407a-a617-566b8a007f9c" />
 
 ## RESULT: 
 Thus the Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is executed successfully.
